@@ -3,7 +3,7 @@
 
 ## What was learned:
 
-- Modularising your code into separate classes.
+- Modularising code into separate classes.
 - Dart classes and objects.
 - Using class constructors.
 - Extracting Widgets to refactor your code.
